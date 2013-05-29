@@ -1,5 +1,5 @@
 # Defaults. For supported versions check .travis.yml
-ENV['rails'] ||= '3.2.8'
+ENV['rails'] ||= '4.0.0.rc1'
 ENV['orm']   ||= 'active_record'
 
 source 'https://rubygems.org'
